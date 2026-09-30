@@ -9,6 +9,8 @@
 // @run-at       document-start
 // @grant        none
 // @license      MIT
+// @downloadURL  https://github.com/Cecilia-pj/bing-ad-remover/raw/main/bing-search-ad-remover.user.js
+// @updateURL    https://github.com/Cecilia-pj/bing-ad-remover/raw/main/bing-search-ad-remover.user.js
 // ==/UserScript==
 
 (function () {

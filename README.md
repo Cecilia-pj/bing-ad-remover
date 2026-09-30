@@ -17,7 +17,13 @@
 ## 安装
 
 1. 浏览器安装 [Tampermonkey](https://www.tampermonkey.net/) 或 Violentmonkey
-2. 打开 [`bing-search-ad-remover.user.js`](./bing-search-ad-remover.user.js)，点 `Raw`，按提示安装
+2. 点这个链接，管理器会自动弹出安装页：
+
+   **<https://github.com/Cecilia-pj/bing-ad-remover/raw/main/bing-search-ad-remover.user.js>**
+
+   也可以手动打开 [`bing-search-ad-remover.user.js`](./bing-search-ad-remover.user.js) 点 `Raw`。
+
+脚本头部带 `@updateURL` / `@downloadURL`，仓库发新版后 Tampermonkey 会自动检测更新。
 
 ## 覆盖范围
 
